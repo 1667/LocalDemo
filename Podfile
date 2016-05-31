@@ -1,0 +1,5 @@
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'FMDB', '~> 2.5'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'Masonry', '~> 0.6.3'
+pod 'AFNetworking', '~> 2.5.4'

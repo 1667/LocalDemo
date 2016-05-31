@@ -1,0 +1,2 @@
+/Users/wxy/Library/Developer/Xcode/DerivedData/TTTT-ezbssvypscreywchtaiskkfntyyo/Build/Products/Debug-iphonesimulator/TTTT.app
+iPhone Developer
